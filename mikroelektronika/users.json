@@ -1,0 +1,29 @@
+{
+	"users": [{
+		"name": "Tom",
+		"last_name": "Felton",
+		"email": "tomfelton@gmail.com",
+		"gender": "Male",
+		"birthdate": "1987-09-08",
+		"address": {
+			"city": "London",
+			"postal_code": "33325",
+			"street_address": "Park Avenue 321"
+		},
+		"phone_number": "061777281",
+		"image": "..\\images\\felton.jpg"
+	}, {
+		"name": "Eddie",
+		"last_name": "Vedder",
+		"email": "eddievedder@gmail.com",
+		"gender": "Male",
+		"birthdate": "1964-02-19",
+		"address": {
+			"city": "Seattle",
+			"postal_code": "54333",
+			"street_address": "Nirvana Street 321"
+		},
+		"phone_number": "061777281"
+	}
+	]
+}
