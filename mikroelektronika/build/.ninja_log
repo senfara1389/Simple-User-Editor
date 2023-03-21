@@ -1,0 +1,22 @@
+# ninja log v5
+25	598	7011003862556230	MIKROE_PROJECT_autogen/timestamp	435debbee7d374f3
+316	2496	7008140162284863	CMakeFiles/MIKROE_PROJECT.dir/src/mainwindow.cpp.obj	80f53f2745d67d11
+25	598	7011003862556230	MIKROE_PROJECT_autogen/mocs_compilation.cpp	435debbee7d374f3
+25	598	7011003862556230	C:/Users/Senfara1389/Desktop/mikroelektronika/build/MIKROE_PROJECT_autogen/timestamp	435debbee7d374f3
+25	598	7011003862556230	C:/Users/Senfara1389/Desktop/mikroelektronika/build/MIKROE_PROJECT_autogen/mocs_compilation.cpp	435debbee7d374f3
+51	12814	7010999003704178	CMakeFiles/MIKROE_PROJECT.dir/src/main.cpp.obj	25a84398c6e63129
+4976	5326	7011003909676368	MIKROE_PROJECT.exe	de2623860be15a9b
+1797	7419	7010998661826929	CMakeFiles/MIKROE_PROJECT.dir/MIKROE_PROJECT_autogen/mocs_compilation.cpp.obj	b6fb0718c33416e8
+1984	8576	7010751313334622	CMakeFiles/MIKROE_PROJECT.dir/src/briefusermodel.cpp.obj	ef30a62bc845903e
+1911	6811	7010683790378019	CMakeFiles/MIKROE_PROJECT.dir/src/modelcatcherbutton.cpp.obj	fd9bdd83b83c6845
+705	11312	7011000059333829	CMakeFiles/MIKROE_PROJECT.dir/src/gui.cpp.obj	9a095beb68a6c13b
+1056	4528	7010820007445939	CMakeFiles/MIKROE_PROJECT.dir/src/jsonhandler.cpp.obj	7ffa00ac609b8084
+1043	4525	7009994619386171	CMakeFiles/MIKROE_PROJECT.dir/src/user.cpp.obj	418b09edc87cba6e
+33	11656	7010999889713907	CMakeFiles/MIKROE_PROJECT.dir/src/guiwidgetfunctions.cpp.obj	a66103c32237d992
+1991	8801	7010751315806282	CMakeFiles/MIKROE_PROJECT.dir/src/detailedusermodel.cpp.obj	5cff5e56c817f071
+27	13191	7010999007490293	CMakeFiles/MIKROE_PROJECT.dir/src/guiinteractivityfunctions.cpp.obj	2530e788a288ba5
+2099	7687	7010998170571337	CMakeFiles/MIKROE_PROJECT.dir/src/userdetailstableview.cpp.obj	8938967f6a53b44b
+627	4975	7011003906325455	CMakeFiles/MIKROE_PROJECT.dir/src/usersbrieftableview.cpp.obj	67edb716ab68b5db
+1986	6320	7010768019266558	CMakeFiles/MIKROE_PROJECT.dir/src/modelviewer.cpp.obj	743439ebfa4e0502
+1843	5891	7010998646556547	CMakeFiles/MIKROE_PROJECT.dir/src/updatableimage.cpp.obj	6d745b8abef5b233
+709	4816	7010626582552256	CMakeFiles/MIKROE_PROJECT.dir/src/deleteuserdialog.cpp.obj	885336ebd85eec
