@@ -1,5 +1,0 @@
-C:/Users/Senfara1389/Desktop/mikroelektronika/build/CMakeFiles/MIKROE_PROJECT.dir
-C:/Users/Senfara1389/Desktop/mikroelektronika/build/CMakeFiles/edit_cache.dir
-C:/Users/Senfara1389/Desktop/mikroelektronika/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Senfara1389/Desktop/mikroelektronika/build/CMakeFiles/MIKROE_PROJECT_autogen_timestamp_deps.dir
-C:/Users/Senfara1389/Desktop/mikroelektronika/build/CMakeFiles/MIKROE_PROJECT_autogen.dir
