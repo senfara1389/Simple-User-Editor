@@ -27,3 +27,8 @@ Finally added user validation on entry as well as done some major code refactori
 Only thing that's left is to refactor the code pretaining to the widget creation (lots of duplicate functions)
 and add some style.
 
+Update 4.0
+
+The odyssey has finally come to an end. The app looks like a classic 80s command line so you feel like a real hacker while adding
+your childhood friend Bumbo to the app and pretending to delete Elon Musk from your database of employees. Search function still 
+doesn't work but for now, I consider this finished because it serves its purpose. It was a fun ride but I'd do it pretty differently now that I'm wise and experienced.
