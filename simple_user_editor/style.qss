@@ -1,0 +1,174 @@
+QWidget.QWidget {
+	background-color: black;
+	border: 1px solid white;
+}
+
+QDialog {
+	background-color: black;
+	border: 1px solid white;
+}
+
+QScrollBar{
+	background-color: black;
+}
+
+QMessageBox {
+	background-color: black;
+	border: 1px solid white;
+}
+
+QStandardButton:hover{
+	background: #474747;
+}
+
+QLineEdit {
+	background-color: white;
+	color: black;
+	font-size: 9pt;
+	font-family: consolas;
+}
+
+QLabel {
+	font-family: consolas;
+	color: #04ed00;
+	font-size: 12pt;
+}
+
+QTableView {
+	background-color: black;
+	border: 1px solid white;
+	margin: 5px 5px 5px 5px;
+	padding: 3px 3px 3px 3px;
+	font-family: consolas;
+	color: #04ed00;
+	font-size: 9pt;
+}
+
+QTableView::section::hover {
+	background-color: #474747;
+}
+
+QTableView::section::pressed {
+	background-color: #696868;
+}
+
+QTableView::section::selected {
+	background-color: #474747;
+}
+
+QTableView::item::selected {
+	background-color: white;
+	color: black;
+}
+
+QHeaderView::section {
+	background-color: #474747;
+	font-family: consolas;
+	color: #04ed00;
+	font-size: 9pt;
+}
+
+QHeaderView::section::checked {
+	color: black;
+}
+
+QPushButton {
+	font-family: consolas;
+	font-size: 9pt;
+	border: 1px solid white;
+	border-radius: 50px;
+	padding: 3px 3px 3px 3px;
+	color: #04ed00;
+}
+
+QRadioButton {
+	font-family: consolas;
+	font-size: 9pt;
+	color: #04ed00;
+}
+
+QCalendarWidget {
+	background-color: black;
+}
+
+QCalendarWidget QWidget {
+	alternate-background-color: black;
+	font-family: consolas;
+	font-size: 9pt;
+	color: #04ed00;
+}
+
+QCalendarWidget QMenu {
+	background-color: black;
+	selection-background-color: white;
+	selection-color: black;
+}
+
+QCalendarWidget QSpinBox{
+	font-family: consolas;
+	font-size: 9pt;
+	background-color: black;
+	selection-background-color: white;
+	selection-color: black;
+}
+
+QCalendarWidget QSpinBox::up-button {
+	selection-background-color: #04ed00;
+}
+
+QCalendarWidget QSpinBox::down-button {
+	selection-background-color: #04ed00;
+}
+
+QCalendarWidget QAbstractItemView:enabled {
+	background-color: black;
+	font-family: consolas;
+	font-size: 9pt;
+	color: #04ed00;
+	selection-background-color: #474747;
+}
+
+QCalendarWidget QAbstractItemView:disabled {
+	color red;
+}
+
+QCalendarWidget::selected {
+	color: white;
+}
+
+QPushButton:hover{
+	background: #474747;
+}
+
+QPushButton#newUserPushButton {
+	background: #0430de;
+}
+
+QPushButton#newUserPushButton:hover {
+	background: #214eff;
+}
+
+QPushButton#createButton {
+	background: #0430de;
+}
+
+QPushButton#createButton:hover {
+	background: #214eff;
+}
+
+QPushButton#deleteUserPushButton {
+	background: #bd0000;
+}
+
+QPushButton#deleteUserPushButton:hover {
+	background: #ff1c1c;
+}
+
+QPushButton#cancelButtonButton {
+	background: #bd0000;
+}
+
+QPushButton#cancelButton:hover {
+	background: #ff1c1c;
+}
+
