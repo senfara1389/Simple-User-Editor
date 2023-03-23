@@ -1,0 +1,19 @@
+# ninja log v5
+2	1055	7012568967948254	MIKROE_PROJECT_autogen/timestamp	b880434e1ae93bc0
+2	1055	7012568967948254	MIKROE_PROJECT_autogen/mocs_compilation.cpp	b880434e1ae93bc0
+2	1055	7012568967948254	C:/Users/Senfara1389/Desktop/mikroelektronika/build/MIKROE_PROJECT_autogen/timestamp	b880434e1ae93bc0
+2	1055	7012568967948254	C:/Users/Senfara1389/Desktop/mikroelektronika/build/MIKROE_PROJECT_autogen/mocs_compilation.cpp	b880434e1ae93bc0
+1087	4855	7012569007856589	CMakeFiles/MIKROE_PROJECT.dir/src/updatableimage.cpp.obj	5396375a7aff2bd2
+1131	5006	7012569009279630	CMakeFiles/MIKROE_PROJECT.dir/src/user.cpp.obj	42d57a718b58eb30
+1103	5076	7012569010094733	CMakeFiles/MIKROE_PROJECT.dir/src/modelviewer.cpp.obj	a626eef9202491f6
+1063	5362	7012569012835230	CMakeFiles/MIKROE_PROJECT.dir/src/detailedusermodel.cpp.obj	1c0e3e51ae209f4c
+1068	5431	7012569013450136	CMakeFiles/MIKROE_PROJECT.dir/src/briefusermodel.cpp.obj	4f94cc126b94d369
+1113	5563	7012569014973509	CMakeFiles/MIKROE_PROJECT.dir/src/userdetailstableview.cpp.obj	89364324c4246531
+1107	5700	7012569016293670	CMakeFiles/MIKROE_PROJECT.dir/src/usersbrieftableview.cpp.obj	269646826c0937aa
+1083	6087	7012569020233122	CMakeFiles/MIKROE_PROJECT.dir/src/jsonhandler.cpp.obj	6ebfa3eb196fd150
+1055	6266	7012569022029814	CMakeFiles/MIKROE_PROJECT.dir/MIKROE_PROJECT_autogen/mocs_compilation.cpp.obj	21d1fd723e168b10
+1059	10444	7012569063793797	CMakeFiles/MIKROE_PROJECT.dir/src/gui.cpp.obj	8f204ac9a6fb7e0b
+1093	10569	7012569065005528	CMakeFiles/MIKROE_PROJECT.dir/src/main.cpp.obj	895c546eb4629ae8
+1074	10665	7012569066025447	CMakeFiles/MIKROE_PROJECT.dir/src/guiinteractivityfunctions.cpp.obj	bc4b7a87ae4f483b
+1078	10774	7012569067037858	CMakeFiles/MIKROE_PROJECT.dir/src/guiwidgetfunctions.cpp.obj	5c1a60bf60fdd74d
+10775	11393	7012569073197563	MIKROE_PROJECT.exe	bb3b87ebe16f3d9d
