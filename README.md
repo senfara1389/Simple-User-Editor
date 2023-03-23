@@ -19,3 +19,11 @@ somewhat as if an actual programmer did it.
 In the end, it's all about style, so the final version will look better than the Windows XP background and it will be your
 new favorite art piece after I finish with the stylesheets. I'm off to my hibernation now since I spent almost 12 consecutive
 hours making this.
+
+Update 3.0
+
+Finally added user validation on entry as well as done some major code refactoring so now every interaction and connection that needs to be created is in a separate file from the classes.
+
+Only thing that's left is to refactor the code pretaining to the widget creation (lots of duplicate functions)
+and add some style.
+
